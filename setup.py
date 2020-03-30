@@ -14,7 +14,7 @@
 from setuptools import setup
 
 setup(
-    name='JsonFlatten',
+    name='JsonFlatten_xh',
     version='0.0.0',
     description='This is tool to flatten json data.',
     author='Alfons',
