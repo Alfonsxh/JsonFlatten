@@ -19,6 +19,6 @@ setup(
     description='This is tool to flatten json data.',
     author='Alfons',
     author_email='xiaohuihui100@gmail.com',
-    url='www.'
+    url='https://github.com/Alfonsxh/JsonFlatten',
     packages=["JsonFlatten"],
 )
